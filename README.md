@@ -2,7 +2,14 @@
 Welcome to the ATM Facility Simulation, a fully functional banking application built in Java.
 This project replicates the real-world operations of an ATM system, offering a smooth, secure, and interactive user experience.
 
-##Features
+##KEY FEATURES - 
+1. one time transaction limit <=25,000 for WITHDRAWL
+2. Auto session time out with 10 seconds of no activity.
+3. User can update mobile no. also
+4. Fast Cash withdrawl
+5. Receipt generation including details such as transaction type, date, time, amount, and account balance.
+
+##Full Features
 > User Authentication
 Login using a valid Customer ID and PIN.
 Two attempts are given to enter the correct PIN, ensuring security.
